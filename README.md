@@ -10,10 +10,11 @@
 - 此用户认为罗老师才是真正的猛男，敢于直视惨淡的人生。
 
 <div>
-<img src="./img/JohnRomero03.gif" alt="" style="clear : none; width: 24%;">
-<img src="./img/JohnRomero02.gif" alt="" style="clear : none; width: 24%;">
-<img src="./img/JohnRomero01.gif" alt="" style="clear : none; width: 24%;">
-<img src="./img/JohnRomero04.gif" alt="" style="clear : none; width: 24%;">
+<img src="./img/JohnRomero03.gif" alt="" style="clear : none; width: 49%;">
+<img src="./img/JohnRomero02.gif" alt="" style="clear : none; width: 49%;">
+<br>
+<img src="./img/JohnRomero01.gif" alt="" style="clear : none; width: 49%;">
+<img src="./img/JohnRomero04.gif" alt="" style="clear : none; width: 49%;">
 </div>
 
  
