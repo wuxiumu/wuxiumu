@@ -1,5 +1,13 @@
 ### Hi there ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
+> 五朽木 · FDE（Forward Deployed Engineer）/ 全栈工程师 —— 把业务问题翻译成可运行的系统。
+>
+> 🔥 **最新作品：[ZCode Labs · FDE 工作台矩阵](https://github.com/wuxiumu/zcode-workbench)** —— 一组真实可访问的业务工作台（运维 / 增长 / CRM / 内容 / AI Agent 观测），Mock 数据驱动，点开即用：[在线演示](https://wuxiumu.github.io/zcode-workbench/)
+>
+> 🛠 姊妹项目：[zcode-tast-cms](https://github.com/wuxiumu/zcode-tast-cms) —— 素材库·图文代发任务系统（PHP 8 + Redis + React 双端，零 Composer 依赖）
+
+---
+
 - 此用户对现有中国教育制度表示强烈不满。
 - 此用户反对读书无用论。
 - 该用户使用Linux。
